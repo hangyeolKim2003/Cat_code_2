@@ -1,4 +1,4 @@
-# Quantum Error Correction (QEC) Simulation: Cat States
+# Simple Quantum Error Correction (QEC) Simulation: Cat States
 
 This project simulates and visualizes a basic Quantum Error Correction (QEC) protocol for a **Schr&ouml;dinger Cat State** using the QuTiP library. 
 
